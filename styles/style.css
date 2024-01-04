@@ -49,7 +49,7 @@ a {
 
 
 .hero {
-    background: url("./assets/img/hero.jpeg");
+    background: url("/assets/img/hero.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -283,7 +283,7 @@ hr {
 }
 
 .hero2 {
-    background: url(./assets/img/hero2.jpg);
+    background: url(/assets/img/hero2.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
